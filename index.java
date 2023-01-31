@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class InputKeybords {
+public class index {
     public static void main(String[] args) {
         System.out.println("Enter Number 1:");
         Scanner sc=new Scanner(System.in);
